@@ -4,16 +4,14 @@
     android:height="108dp"
     android:viewportWidth="108"
     android:viewportHeight="108">
-    <!-- 学士帽方形帽顶 -->
+    <!-- 相机外圈 -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#E2E8F0"
+        android:strokeWidth="7"
+        android:pathData="M54,29 A25,25 0 1,1 54,79 A25,25 0 1,1 54,29 Z" />
+    <!-- 相机内圈（镜头） -->
     <path
         android:fillColor="#E2E8F0"
-        android:pathData="M20,38 H88 V50 H20 Z" />
-    <!-- 学士帽的带子 -->
-    <path
-        android:fillColor="#E2E8F0"
-        android:pathData="M30,50 H78 Q82,60 76,70 Q54,88 32,70 Q26,60 30,50 Z" />
-    <!-- 学士帽顶部装饰球 -->
-    <path
-        android:fillColor="#E2E8F0"
-        android:pathData="M50,31 A4,4 0 1,1 58,31 A4,4 0 1,1 50,31 Z" />
+        android:pathData="M54,46 A8,8 0 1,1 54,62 A8,8 0 1,1 54,46 Z" />
 </vector>

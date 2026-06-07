@@ -15,6 +15,7 @@
     <string name="photo_detail_description">这是照片详情页面，展示网站照片、作者和上传时间。更多功能可以继续迁移。</string>
     <string name="api_base_url">https://graduationalbum-robotics2202.pages.dev</string>
     <string name="web_app_url">https://graduationalbum-robotics2202.pages.dev/</string>
+    <string name="ws_url">wss://ws-room-worker.yueyuanhaoo.workers.dev/ws</string>
 
     <string name="lorem_ipsum">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
