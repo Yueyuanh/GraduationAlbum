@@ -27,3 +27,8 @@ GraduationAlbum is an Android WebView application that wraps a Cloudflare-hosted
 ## Notes
 
 This repository is designed to support the integration of web app functionality with native Android features, including authentication persistence and notifications.
+
+## App Logo
+
+The app logo is designed as a modern graduation photo badge combining a camera frame and mortarboard, reflecting the project¡¯s focus on class memories and album uploads.
+
